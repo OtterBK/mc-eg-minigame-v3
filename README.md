@@ -143,6 +143,9 @@ ProtocolLib - https://www.spigotmc.org/resources/protocollib.1997/
 TitleAPI - https://www.spigotmc.org/resources/titleapi-1-8-1-14-2.1325/
 ##### 서버 버킷 - Spigot 1.12.2 버킷
 ---
-### ❓ 질문사항은 메일, 깃허브 이슈 또는 디스코드로 부탁드립니다.
-[![DISCORD](http://img.shields.io/badge/-Discord-gray?style=for-the-badge&logo=discord&link=https://discord.gg/DBByNeRP)](https://discord.gg/DBByNeRP)&nbsp;&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wjswodnr100@gmail.com)](mailto:wjswodnr100@gmail.com)
+## 📬 연락 방법 (Contact)
+이 프로젝트에 대해 질문이 있거나, 개선 아이디어를 공유하고 싶다면 언제든지 연락해주세요!  
+(Feel free to reach out if you have questions or ideas for improvement!)
+
+- **Discord**: bokum_
+- **Email**: [otter6975@gmail.com](mailto:otter6975@gmail.com)
